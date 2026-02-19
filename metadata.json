@@ -1,0 +1,6 @@
+
+{
+  "name": "ChromaPersist: Afterimage Experiment",
+  "description": "A scientific exploration of visual perception and retinal fatigue. Users stare at saturated color stimuli and measure the duration of complementary afterimages on a white field.",
+  "requestFramePermissions": []
+}
